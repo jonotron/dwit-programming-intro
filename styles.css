@@ -1,0 +1,15 @@
+body { 
+  font-family: 'Droid Serif';
+}
+
+h1, 
+h2, 
+h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
